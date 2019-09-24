@@ -37,9 +37,9 @@ const Weather = ({theme}) => {
     )
 
     useEffect(() => {
+          
+        const APP_KEY = `${process.env.REACT_APP_API_KEY}`;
 
-        const APP_KEY = 'ee73a1e612c1ad08a0ea2ca6ece5ce59';
-            
         const getWeather = async () => {
    
             try {
