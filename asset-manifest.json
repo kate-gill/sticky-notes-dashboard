@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/sticky-notes-dashboard/static/css/main.37dce1ee.chunk.css",
+    "main.css": "/sticky-notes-dashboard/static/css/main.afa8cd91.chunk.css",
     "main.js": "/sticky-notes-dashboard/static/js/main.c0c6ca85.chunk.js",
     "main.js.map": "/sticky-notes-dashboard/static/js/main.c0c6ca85.chunk.js.map",
     "runtime~main.js": "/sticky-notes-dashboard/static/js/runtime~main.8831c7ee.js",
@@ -8,8 +8,8 @@
     "static/js/2.a6271471.chunk.js": "/sticky-notes-dashboard/static/js/2.a6271471.chunk.js",
     "static/js/2.a6271471.chunk.js.map": "/sticky-notes-dashboard/static/js/2.a6271471.chunk.js.map",
     "index.html": "/sticky-notes-dashboard/index.html",
-    "precache-manifest.2555e764100bfd1dff394263395e0f21.js": "/sticky-notes-dashboard/precache-manifest.2555e764100bfd1dff394263395e0f21.js",
+    "precache-manifest.3ad3a4326c2cb4741d2a88ce4f148713.js": "/sticky-notes-dashboard/precache-manifest.3ad3a4326c2cb4741d2a88ce4f148713.js",
     "service-worker.js": "/sticky-notes-dashboard/service-worker.js",
-    "static/css/main.37dce1ee.chunk.css.map": "/sticky-notes-dashboard/static/css/main.37dce1ee.chunk.css.map"
+    "static/css/main.afa8cd91.chunk.css.map": "/sticky-notes-dashboard/static/css/main.afa8cd91.chunk.css.map"
   }
 }
