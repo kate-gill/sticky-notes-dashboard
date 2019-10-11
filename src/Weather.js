@@ -43,7 +43,7 @@ const Weather = ({theme}) => {
         const getWeather = async () => {
    
             try {
-                const response = await fetch(`http://api.openweathermap.org/data/2.5/weather?q=${query}&units=metric&APPID=${APP_KEY}`);
+                const response = await fetch(`https://api.openweathermap.org/data/2.5/weather?q=${query}&units=metric&APPID=${APP_KEY}`);
                 if(!response.ok){
                     setError(true);
                     throw Error(response.statusText)
@@ -54,7 +54,7 @@ const Weather = ({theme}) => {
                     {
                         temp: data.main.temp, 
                         desc: data.weather[0].main, 
-                        icon: `http://openweathermap.org/img/w/${data.weather[0].icon}.png`,
+                        icon: `https://openweathermap.org/img/w/${data.weather[0].icon}.png`,
                         humidity: data.main.humidity,
                         wind: data.wind.speed
                     }
