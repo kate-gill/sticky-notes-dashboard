@@ -8,5 +8,12 @@ Sticky Notes Dashboard is an app for writing digital sticky notes in place of pa
 
 This app was build with React Hooks. Although designed for desktop use, it is mobile friendly. Styled with CSS Grid Layout and Flexbox. Weather information comes from OpenWeatherMap API. 
 
+The deployed version could be seen here:
+
+https://kate-gill.github.io/sticky-notes-dashboard/
+
+Mini demo gif is shown below:
+
 ![demo](demo.gif)
+
 
