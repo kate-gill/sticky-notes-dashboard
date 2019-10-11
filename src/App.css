@@ -682,6 +682,10 @@ i.locationIcon {
   .openingInfo {
     margin: 30px !important;
   }
+  
+  .notesContainer {
+    min-height: 68vh !important;
+  }
     
 }
 
