@@ -6,7 +6,7 @@ Sticky Notes Dashboard is an app for writing digital sticky notes.
 * App offers two themes based on a personal preference: Light Blue or Midnight Purple. 
 * Location, preffered theme and notes are saved to local storage. 
 
-This app was built with React Hooks. Although designed for desktop use, it is mobile friendly. Styled with CSS Grid Layout and Flexbox. Weather information comes from OpenWeatherMap API. 
+This app was built with React Hooks. Mobile friendly. Styled with CSS Grid Layout and Flexbox. Weather information comes from OpenWeatherMap API. 
 
 The deployed version can be seen here:
 
